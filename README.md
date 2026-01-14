@@ -1,1 +1,7 @@
-Hi, I’m Karishma Dayah, an aspiring Business and Data Analyst with a strong foundation in SQL, Power BI, AWS, and Excel. I combine my business knowledge with data analytics to transform raw data into actionable insights that drive smarter business decisions. I am passionate about solving real-world business problems, building insightful dashboards, and continuously expanding my technical expertise in data visualization, analytics modeling, and reporting. My goal is to leverage data to optimize operations, improve performance, and create measurable impact for organizations.
+# Hi, I’m Karishma Dayah 
+An aspiring Business and Data Analyst with a strong foundation in SQL, Power BI, AWS, and Excel. I combine my business knowledge with data analytics to transform raw data into actionable insights that drive smarter business decisions. I am passionate about solving real-world business problems, building insightful dashboards, and continuously expanding my technical expertise in data visualization, analytics modeling, and reporting. My goal is to leverage data to optimize operations, improve performance, and create measurable impact for organizations.
+
+## Skills & Tools
+- **Data Analysis:** SQL, Excel, Power BI
+- **Business Analytics:** KPI dashboards, reporting, process optimization
+- **Other Tools:** Python (beginner), Tableau
